@@ -167,6 +167,7 @@ const loadHPP = function() {
           break;
       }
     }
+    console.log(result)
     return result;
   }
 
